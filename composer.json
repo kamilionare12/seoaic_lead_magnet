@@ -1,0 +1,16 @@
+{
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "SEOAIC\\": "inc/classes/"
+        }
+    },
+    "require-dev": {
+        "szepeviktor/phpstan-wordpress": "^1.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    }
+}
