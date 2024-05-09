@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-20 11:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: fi\n"
+"Project-Id-Version: SEO AI\n"
+"Language-Team: Finnish"
+
+#: inc/classes/seoaic-multilang-class.php:564
+msgid " translation"
+msgstr ""
+
+#: inc/view/popups/add-idea.php:28 inc/view/popups/add-locations-group.php:15
+msgid "Add an item"
+msgstr ""
+
+#: inc/view/seoaic-locations-view.php:151
+msgid "Add location (API)"
+msgstr ""
+
+#: inc/view/seoaic-locations-view.php:28
+msgid "Add locations group"
+msgstr ""
+
+#: inc/view/seoaic-ideas-view.php:92
+msgid "Add new Idea"
+msgstr ""
+
+#: inc/view/popups/generate-terms.php:45
+msgid "Add Selected"
+msgstr ""
+
+#: inc/view/seoaic-settings-view.php:230
+msgid "Add Service"
+msgstr ""
+
+#: inc/view/popups/generate-terms.php:35
+msgid ""
+"Add Sub-terms (separated by comma). Ex:\n"
+"                        cup,table"
+msgstr ""
+
+#: inc/view/popups/generate-terms.php:42
+msgid "Add Sub-Terms Manually"
+msgstr ""
+
+#: inc/view/popups/add-keyword.php:14 inc/view/popups/add-keyword.php:26
+msgid "Add The Keyword"
+msgstr ""
+
+#: inc/view/seoaic-settings-view.php:147
+msgid "Allow to use plugin for the following roles"
+msgstr ""
+
+#: inc/view/popups/serp-keyword.php:22
+msgid "Average Position"
+msgstr ""
+
+#: inc/view/popups/add-idea.php:40 inc/view/popups/generate-ideas.php:15
+msgid "Choose keywords"
+msgstr ""
+
+#: inc/classes/seoaic-locations-class.php:179
+msgid "Choose location group"
+msgstr ""
+
+#: inc/view/popups/generate-ideas.php:12
+msgid "Choose search terms"
+msgstr ""
+
+#: inc/classes/seoaic-clients-class.php:419
+msgid "Choose service"
+msgstr ""
+
+#: inc/view/popups/schedule-posts.php:23
+msgid "Choose your start posting date"
+msgstr ""
+
+#: inc/view/popups/disconnect.php:22
+msgid "Clear SEO AI data from this site"
+msgstr ""
+
+#: inc/view/popups/search-terms-posts.php:26
+#: inc/view/popups/search-terms-update-modal.php:33
+#: inc/view/popups/generate-terms.php:42
+msgid "Close"
+msgstr ""
+
+#: inc/view/seoaic-settings-view.php:223
+msgid "Company services"
+msgstr ""
+
+#: inc/view/seoaic-settings-view.php:182
+msgid "Company website"
+msgstr ""
+
+#: inc/view/popups/competitor-compare.php:15
+msgid "Compare positions"
+msgstr ""
+
+#: inc/view/popups/add-competitors.php:16
+msgid "Competitors"
+msgstr ""
+
+#: inc/view/popups/search-terms-posts.php:15
+#: inc/view/popups/search-terms-update-modal.php:17
+#: inc/view/popups/search-terms-update-modal.php:17
+#: inc/view/popups/post-mass-creation.php:16
+#: inc/view/popups/post-mass-creation.php:16
+#: inc/view/popups/confirm-modal.php:15 inc/view/popups/confirm-modal.php:15
+msgid "Confirm"
+msgstr ""
+
+#: inc/view/popups/add-idea.php:82 inc/view/popups/add-locations-group.php:27
+msgid "Create"
+msgstr ""
+
+#: inc/view/popups/search-terms-posts.php:15
+msgid "Created Posts"
+msgstr ""
+
+#: inc/view/popups/generate-keywords.php:28
+#: inc/view/popups/post-mass-creation.php:24
+#: inc/view/popups/generate-ideas.php:86
+msgid "Custom prompt"
+msgstr ""
+
+#: inc/view/popups/disconnect.php:28
+msgid "Disconnect"
+msgstr ""
+
+#: inc/view/popups/disconnect.php:15
+msgid "Disconnect from SEO AI"
+msgstr ""
+
+#: inc/view/popups/add-competitors.php:24 inc/view/popups/serp-keyword.php:21
+msgid "Domain"
+msgstr ""
+
+#: inc/view/popups/search-terms-posts.php:27
+msgid "Done"
+msgstr ""
+
+#: inc/view/seoaic-created-posts-view.php:37
+msgid "Edit"
+msgstr ""
+
+#: inc/view/popups/edit-group.php:15 inc/view/popups/edit-idea.php:17
+msgid "Edit an item"
+msgstr ""
+
+#: inc/classes/seoaic-locations-class.php:245
+msgid "Edit group"
+msgstr ""
+
+#: inc/view/seoaic-ideas-view.php:246
+msgid "Edit Idea"
+msgstr ""
+
+#: inc/view/seoaic-created-posts-view.php:58
+msgid "Edit post"
+msgstr ""
+
+#: inc/view/popups/add-keyword.php:19
+msgid "Enter the keyword"
+msgstr ""
+
+#: inc/view/popups/post-mass-creation.php:119
+msgid "Generate"
+msgstr ""
+
+#: inc/view/popups/generate-ideas.php:30 inc/view/popups/generate-ideas.php:97
+msgid "Generate Ideas"
+msgstr ""
+
+#: inc/view/popups/generate-keywords.php:17
+#: inc/view/popups/generate-keywords.php:34
+msgid "Generate Keywords"
+msgstr ""
+
+#: inc/view/popups/generated-post.php:15
+msgid "Generated Post"
+msgstr ""
+
+#: inc/view/popups/add-competitors.php:25
+msgid "Google Position"
+msgstr ""
+
+#: inc/view/popups/generate-ideas.php:39
+msgid "How many ideas do you want to generate?"
+msgstr ""
+
+#: inc/view/popups/generate-keywords.php:24
+msgid "How many keywords do you want to generate?"
+msgstr ""
+
+#: inc/view/seoaic-created-posts-view.php:33
+msgid "ID"
+msgstr ""
+
+#: inc/view/popups/generate-ideas.php:43
+msgid "Idea type"
+msgstr ""
+
+#: inc/view/popups/plan-modal.php:23
+msgid "Ideas monthly"
+msgstr ""
+
+#: inc/view/seoaic-created-posts-view.php:34
+msgid "Image"
+msgstr ""
+
+#: inc/view/popups/generate-terms.php:24
+msgid "Keyword"
+msgstr ""
+
+#: inc/view/popups/serp-keyword.php:15
+msgid "Keyword SERP Competitors"
+msgstr ""
+
+#: inc/view/popups/add-competitors.php:17
+msgid "keyword: "
+msgstr ""
+
+#: inc/classes/seoaic-multilang-class.php:631
+msgid "Languages to generate"
+msgstr ""
+
+#: inc/view/popups/generate-terms.php:17
+msgid "Main keyword: "
+msgstr ""
+
+#: inc/view/popups/alert-modal.php:15
+msgid "Message"
+msgstr ""
+
+#: inc/view/popups/edit-group.php:22 inc/view/popups/edit-idea.php:24
+#: inc/view/popups/add-idea.php:34 inc/view/popups/add-locations-group.php:21
+msgid "Name"
+msgstr ""
+
+#: inc/view/popups/post-mass-creation.php:88
+#: inc/view/popups/schedule-posts.php:32 inc/view/popups/confirm-modal.php:26
+msgid "No"
+msgstr ""
+
+#: inc/view/seoaic-settings-view.php:192
+msgid "Not valid URL"
+msgstr ""
+
+#: inc/view/popups/alert-modal.php:21 inc/view/popups/serp-keyword.php:31
+#: inc/view/popups/post-mass-creation.php:89
+#: inc/view/popups/competitor-compare.php:37
+#: inc/view/popups/rank-history.php:30
+msgid "OK"
+msgstr ""
+
+#: inc/classes/seoaic-ajax-validation.php:55
+msgid ""
+"Oops! It seems like something went wrong. Please refresh the page and try "
+"again. If the issue persists, contact our support team for assistance. Error:"
+" Invalid security token."
+msgstr ""
+
+#: inc/view/popups/add-idea.php:42 inc/view/popups/generate-ideas.php:54
+msgid "Open the keywords table"
+msgstr ""
+
+#: inc/classes/seoaic-ajax-validation.php:43
+msgid "Permission denied"
+msgstr ""
+
+#: inc/view/popups/plan-modal.php:19
+msgid "Posts monthly"
+msgstr ""
+
+#: inc/view/seoaic-created-posts-view.php:44
+msgid "Published"
+msgstr ""
+
+#: inc/view/popups/rank-history.php:15
+msgid "Rank History"
+msgstr ""
+
+#: inc/functions.php:723
+msgid "Related Articles"
+msgstr "Aiheeseen liittyvät artikkelit"
+
+#: inc/view/seoaic-ideas-view.php:145
+msgid "Remove scheduled ideas too "
+msgstr ""
+
+#: inc/view/popups/add-competitors.php:34 inc/view/popups/edit-group.php:28
+#: inc/view/popups/edit-idea.php:32 inc/view/popups/generated-post.php:35
+msgid "Save"
+msgstr ""
+
+#: inc/view/popups/schedule-posts.php:33
+msgid "Schedule"
+msgstr ""
+
+#: inc/view/popups/schedule-posts.php:15
+msgid "Schedule posting"
+msgstr ""
+
+#: inc/view/seoaic-ideas-view.php:172
+msgid "Schedule posts"
+msgstr ""
+
+#: inc/view/popups/generate-terms.php:16
+msgid "Search Terms Suggestions"
+msgstr ""
+
+#: inc/view/popups/generate-terms.php:25
+msgid "Search volume"
+msgstr ""
+
+#: inc/view/popups/add-competitors.php:26 inc/view/popups/generate-terms.php:26
+msgid "Selected"
+msgstr ""
+
+#: inc/settings.php:14
+msgid "SEO AI client settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "SEO AI OY"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"SEOAI client Wordpress Plugin, generate post, image via openai. Node.js."
+msgstr ""
+
+#: inc/view/popups/post-mass-creation.php:29
+msgid "Set thumbnail for selected posts"
+msgstr ""
+
+#: inc/view/popups/add-competitors.php:17
+msgid "socal media marketing"
+msgstr ""
+
+#: inc/view/seoaic-created-posts-view.php:36
+msgid "Status"
+msgstr ""
+
+#: inc/view/popups/plan-modal.php:34
+msgid "Submit"
+msgstr ""
+
+#: inc/view/popups/generate-ideas.php:36
+msgid ""
+"This option is useful when there is a need to generate multiple posts at "
+"once, either for immediate publishing or for scheduling them over a specific "
+"period. It streamlines the process of generating a significant amount of "
+"content efficiently."
+msgstr ""
+
+#: inc/view/seoaic-created-posts-view.php:35
+msgid "Title"
+msgstr ""
+
+#: inc/view/popups/add-competitors.php:26 inc/view/popups/generate-terms.php:26
+msgid "Unselect All"
+msgstr ""
+
+#: inc/view/popups/search-terms-update-modal.php:34
+msgid "Update"
+msgstr ""
+
+#: inc/view/popups/plan-modal.php:14
+msgid "Upgrade My Plan"
+msgstr ""
+
+#: inc/view/popups/serp-keyword.php:23
+msgid "Visibility"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP SEO AI"
+msgstr ""
+
+#: inc/view/popups/competitor-compare.php:22
+msgid "www.competitor.com"
+msgstr ""
+
+#: inc/view/popups/confirm-modal.php:27
+msgid "Yes"
+msgstr ""
+
+#: inc/view/popups/plan-modal.php:27
+msgid "Your email"
+msgstr ""

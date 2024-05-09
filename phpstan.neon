@@ -1,0 +1,8 @@
+parameters:
+  level: 5
+  paths:
+    - seoai-client.php
+    - inc/
+  scanDirectories:
+    - vendor/
+    - plugin-update-checker-5.3/

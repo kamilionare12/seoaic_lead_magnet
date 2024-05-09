@@ -1,0 +1,7 @@
+.idea
+
+webpack/node_modules
+vendor
+.DS_Store
+
+.vscode
