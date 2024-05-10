@@ -33,7 +33,7 @@ $competitors_options = isset($SEOAIC_OPTIONS['competitors']) ? count($SEOAIC_OPT
          data-migrate-competitors-options="<?php echo esc_attr($competitors_options)?>"
     >
         <div class="row full-width">
-            <?php echo $SEOAIC->dashboard->dashboard_HTML();?>
+
         </div>
 
         <div class="lds-dual-ring"></div>

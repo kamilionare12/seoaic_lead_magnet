@@ -56,9 +56,9 @@ final class Menu
         $page_name = end($page_name);
 
         if ($page_name !== 'lm') {
-            include(SEOAIC_LM_DIR . 'App/templates/' . $page_name . '.php');
+            include(SEOAIC_LM_DIR . 'App/Templates/' . $page_name . '.php');
         } else {
-            include(SEOAIC_LM_DIR . 'App/templates/home.php');
+            include(SEOAIC_LM_DIR . 'App/Templates/home.php');
         }
     }
 }
