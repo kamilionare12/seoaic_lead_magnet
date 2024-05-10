@@ -9,7 +9,6 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
 const entryPoints = {
   'main': './src/js/main.js',
-  'gutenberg': './src/js/gutenberg.js'
 };
 
 module.exports = {
