@@ -30,9 +30,9 @@ require( SEOAIC_LM_DIR . 'plugin-update-checker-5.3/plugin-update-checker.php' )
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 
 $MyUpdateChecker = PucFactory::buildUpdateChecker(
-    'https://updates.wpseoai.com/?action=get_metadata&slug={SEOAIC_PLUGIN_ENV_SLUG}',
+    'https://updates.wpseoai.com/?action=get_metadata&slug={SEOAIC_LM_PLUGIN_ENV_SLUG}',
     SEOAIC_LM_FILE,
-    '{SEOAIC_PLUGIN_ENV_SLUG}'
+    '{SEOAIC_LM_PLUGIN_ENV_SLUG}'
 );
 
 // Require once the Composer Autoload
@@ -41,17 +41,5 @@ if (file_exists(SEOAIC_LM_DIR . "vendor/autoload.php" )) {
 }
 
 if (class_exists('App\Init')) {
-    App\Init::register_services();
+    App\Init::register_classes();
 }
-
-
-//
-//
-//if ( ! file_exists( SEOAIC_LM_DIR . "vendor/autoload.php" ) ) {
-//    return;
-//}
-//
-//require_once 'vendor/autoload.php';
-
-//require_once( SEOAIC_LM_DIR . 'App/functions.php' );
-//$SEOAIC = new \SEOAIC\SEOAIC();
